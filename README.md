@@ -30,14 +30,16 @@
 - 💬 Ask me about Hybrid App Development, Web Development, Graphic Designing, Web Designing & python
 - 📫 How to reach me: [Email - Vatsal Safaya](vatsalsafaya@gmail.com), [Instagram - @_.lev.01](https://instagram.com/_.lev.01/)
 - 😄 Pronouns: He/Him
-
+<br/>
+<br/>
 
 
 [![Twitter: safaya_vatsal](https://img.shields.io/twitter/follow/safaya_vatsal?style=social)](https://twitter.com/imthepk)
 [![Linkedin: safayavatsal](https://img.shields.io/badge/-safayavatsal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safayavatsal-232403rv/)](https://www.linkedin.com/in/safayavatsal-232403rv/)
 [![GitHub safayavatsal](https://img.shields.io/github/followers/safayavatsal?label=follow&style=social)](https://github.com/safayavatsal)
 [![website](https://img.shields.io/badge/PortfolioWebsite-safayavatsal-2648ff?style=flat-square&logo=google-chrome)](https://vatsalsafaya.netlify.app)
-
+<br/>
+<br/>
 
 
 **Languages and Tools:**  
@@ -52,7 +54,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
+<br/>
+<br/>
+<br/>
 
 
 <a href="https://github.com/safayavatsal">

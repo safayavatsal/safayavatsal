@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently studying in Ahmedabad
 - 🌱 I’m currently learning Typescript for React Native
-- 👯 I’m looking to collaborate on **some of my personal projects**
+- 👯 I’m looking to collaborate on **some of my projects**
 - 💬 Ask me about Hybrid App Development, Web Development, Graphic Designing, Web Designing & python
 - 📫 How to reach me: [Email - Vatsal Safaya](vatsalsafaya@gmail.com), [Instagram - @_.lev.01](https://instagram.com/_.lev.01/)
 - 😄 Pronouns: He/Him
@@ -84,7 +84,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safayavatsal&" alt="Vatsal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safayavatsal&theme=light&line_height=27" alt="Vatsal" />
 </p>
 
 <div align="center">

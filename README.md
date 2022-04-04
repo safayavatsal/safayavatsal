@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning Typescript for React Native
 - 👯 I’m looking to collaborate on **some of my projects**
 - 💬 Ask me about Hybrid App Development, Web Development, Graphic Designing, Web Designing & python
-- 📫 How to reach me: [Email - Vatsal Safaya](vatsalsafaya@gmail.com), [Instagram - @_.lev.01](https://instagram.com/_.lev.01/)
+- 📫 How to reach me: [Email - Vatsal Safaya](vatsalsafaya@gmail.com), [Instagram - @vatsalsafaya](https://instagram.com/vatsalsafaya/)
 - 😄 Pronouns: He/Him
 <br/>
 <br/>

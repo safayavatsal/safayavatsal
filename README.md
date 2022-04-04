@@ -13,7 +13,7 @@
 <a href="https://github.com/safayavatsal">
   <img align="left" alt="Vatsal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/_.lev.01/">
+<a href="https://instagram.com/vatsalsafaya/">
   <img align="left" alt="Vatsal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/vatsalsafaya/">

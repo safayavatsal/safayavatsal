@@ -38,9 +38,9 @@
 
 
 [![Twitter: safaya_vatsal](https://img.shields.io/twitter/follow/safaya_vatsal?style=social)](https://twitter.com/imthepk)
-[![Linkedin: safayavatsal](https://img.shields.io/badge/-safayavatsal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safayavatsal-232403rv/)](https://www.linkedin.com/in/safayavatsal-232403rv/)
+[![Linkedin: safayavatsal](https://img.shields.io/badge/-safayavatsal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safvat/)](https://www.linkedin.com/in/safvat/)
 [![GitHub safayavatsal](https://img.shields.io/github/followers/safayavatsal?label=follow&style=social)](https://github.com/safayavatsal)
-[![website](https://img.shields.io/badge/PortfolioWebsite-safayavatsal-2648ff?style=flat-square&logo=google-chrome)](https://vatsalsafaya.netlify.app)
+[![website](https://img.shields.io/badge/PortfolioWebsite-safayavatsal-2648ff?style=flat-square&logo=google-chrome)](http://safayavatsal.super.site/)
 <br/>
 <br/>
 

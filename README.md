@@ -24,11 +24,14 @@
 
 
 
-- 🔭 I’m currently studying in Ahmedabad
-- 🌱 I’m currently learning Typescript for React Native
+- Building DECENTRACLUB as a Founder
+- Host of podcast DECENTRALOGY
+- 💰 Active investor in Crypto, Bonds, and Stocks
+- 🔭 I’m Completed my graduation
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on **some of my projects**
-- 💬 Ask me about Hybrid App Development, Web Development, Graphic Designing, Web Designing & python
-- 📫 How to reach me: [Email - Vatsal Safaya](vatsalsafaya@gmail.com), [Instagram - @vatsalsafaya](https://instagram.com/vatsalsafaya/)
+- 💬 Ask me about Hybrid App Development, Web Development, Graphic Designing, and Web Designing
+- 📫 How to reach me: [Email - Vatsal Safaya](vatsalsafaya@gmail.com), [Instagram - @safayavatsal](https://instagram.com/safayavatsal/), [LinkedIn - Vatsal Safaya](https://www.linkedin.com/in/safvat/), and [Twitter - @safaya_vatsal](https://twitter.com/safaya_vatsal/)
 - 😄 Pronouns: He/Him
 <br/>
 <br/>

@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/safayavatsal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayavatsal&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayavatsal&theme=light&hide_langs_below=1&hide_langs_above=97" />
 </a>
 <a href="https://github.com/safayavatsal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=safayavatsal&show_icons=true&theme=light&line_height=27" alt="Vatsal's github stats"/>

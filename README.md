@@ -112,14 +112,17 @@
 
 <p align="center">
   <a href="https://github.com/safayavatsal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayavatsal&theme=dark&exclude_repo=car_1,carparking,Stylumia_Test" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayavatsal&theme=dark&exclude_repo=car_1,carparking,Stylumia_Test" />
 </a>
-<a href="https://github.com/safayavatsal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=safayavatsal&show_icons=true&theme=dark&line_height=27" alt="Vatsal's github stats"/>
+  <a href="https://github.com/safayavatsal">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=safayavatsal&show_icons=true&theme=dark&line_height=27" alt="Vatsal's github stats"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safayavatsal&theme=light&line_height=27" alt="Vatsal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safayavatsal&theme=dark&line_height=27" alt="Vatsal" />
+  <a href="https://github.com/safayavatsal">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime/?username=safayavatsal&theme=dark&line_height=27" alt="Vatsal's stats"/>
+</a>
 </p>
 
 <div align="center">

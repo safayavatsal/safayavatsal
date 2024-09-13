@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/safayavatsal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayavatsal&theme=dark&show_langs=dart,bash,python,javascript,kotlin,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayavatsal&theme=dark&show_langs=jupyternotebook" />
 </a>
 <a href="https://github.com/safayavatsal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=safayavatsal&show_icons=true&theme=dark&line_height=27" alt="Vatsal's github stats"/>

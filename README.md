@@ -6,8 +6,6 @@
 - 🔭 I’m Completed my graduation<br> - 🌱 I’m currently learning Typescript<br>
 - 👯 I’m looking to collaborate on some of my projects<br>
 - 💬 Ask me about Hybrid App Development, Web Development, Graphic Designing, and Web Designing<br>
-- 📫 How to reach me: Email - Vatsal Safaya, Instagram - @safayavatsal, LinkedIn - Vatsal Safaya, and Twitter - @safaya_vatsal<br>
-- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
